@@ -25,8 +25,8 @@
         "drupal/radix": "^4.10",
         "drupal/telephone_validation": "^2.3",
         "drupal/token": "^1.9",
-        "drupal/webform": "^6.0",
-        "drupal/webformnavigation": "^1.0@alpha"
+        "drupal/webform": "^5.27",
+        "drupal/webformnavigation": "^1.0@RC"
     },
     "conflict": {
         "drupal/drupal": "*"
